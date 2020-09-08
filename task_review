@@ -1,0 +1,11 @@
+
+rules for evaluating tasks
+Each corectly implemented task - 25 points
+Total points - 100 
+
+
+Dubster - 24 (implemented corectly, not nessesary part .replaceAll(" +", " ");)
+JadenCase - 18 (implemented partly, not covered null/empty string cases, usless variables s1)
+NumberRotator - 0 (not implemented) 
+SequenceSum -  0 (not implemented) 
+Total points - 32
